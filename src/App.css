@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+table {
+  border: 2px solid rgb(52, 58, 52);
+}
+  
+th {
+  border-bottom: 1px solid black;
+}
+  
+td {
+  text-align: center;
+}
+
+.firstColumn{
+  background-color: rgb(214, 226, 222);
+}
